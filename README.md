@@ -5,3 +5,6 @@ please do not sell.
 you need:
 powerPoint 2007 and up
 Power User add in.
+
+go to Pull Requests, select a version and click on files changed.
+you should be able to download the files you want.

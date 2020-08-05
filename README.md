@@ -6,4 +6,4 @@ you need:
 powerPoint 2007 and up
 Power User add in.
 
-for beta builds, click om master and change to the directory that you want to browse. official fikles go in master.
+for prereleases there are associated pull requests. please see those.
